@@ -12,3 +12,4 @@
 ```python
 print("Hello World")
 ```
+![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
